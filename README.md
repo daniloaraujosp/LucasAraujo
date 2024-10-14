@@ -1,5 +1,5 @@
 <h1>
-    <a href="https://www.daniloaraujo.dev.br">
+    <a href="https://www.lucasaraujo.art.br">
      <img align="center" width="130px" src="https://lucasaraujo.art.br/assets/img/work-1.jpg" target="_blank"></a>
     <span> Lucas Araujo - Professor de Violão</span>
 </h1>
